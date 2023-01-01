@@ -1,4 +1,4 @@
-Ordinary boy
+Just an Ordinary boy
 
 <!---
 26kito/26kito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
